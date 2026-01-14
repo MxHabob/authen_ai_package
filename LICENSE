@@ -1,70 +1,99 @@
-SNE License
----
+# Mulverse M.U.V. General Public License
+**Version 1.0**  
+**Copyright © 2022–2026 Mulverse Inc.**  
+**All rights reserved.**  
+**Company: Mulverse Inc., Registered in Sana'a, Republic of Yemen**  
+**Effective Date: January 2026**
 
-**Supernova S.N.E GENERAL PUBLIC LICENSE**
+This license is a **strong copyleft** license designed to guarantee the freedom to use, study, share, and modify the Software for all users, while ensuring that any modifications or distributions remain open and licensed under the same terms.
 
-**Version 1.0**
+### 1. Definitions
 
-**Copyright (C) [2022] Supernova Inc.**
+- **"This License"** means version 1.0 of the Mulverse M.U.V. General Public License (or any later version published by Mulverse Inc.).
+- **"The Software"** means any copyrightable work licensed under this License by Mulverse Inc., including source code, object code, documentation, and updates.
+- **"You"** means any individual or legal entity exercising rights under this License.
+- **"Modify" / "Modified Version"** means any work based on or derived from the Software.
+- **"Convey"** means any propagation that enables others to make or receive copies (excluding internal/private use).
+- **"Corresponding Source"** means the preferred form for making modifications, including source code, build scripts, and installation information.
 
-**1. Definitions**
+### 2. Basic Permissions
 
-1.1 **"Software"** refers to the Supernova software distributed under this license, including all associated files, documentation, and any updates or modifications.
+Mulverse Inc. grants You a worldwide, royalty-free, non-exclusive license to:
 
-1.2 **"You"** means the individual or entity who receives or uses the Software.
+- Use the Software for any purpose.
+- Study and modify the Software.
+- Convey verbatim copies.
+- Convey Modified Versions.
 
-1.3 **"Distribution"** refers to any form of sharing or redistribution of the Software, including copies or derivative works.
+These freedoms are granted for the full copyright term and are irrevocable as long as You comply with this License.
 
-**2. Permissions**
+### 3. Copyleft Obligations – Source Code & License Continuity
 
-2.1 **Use**: You are granted the right to use the Software for any purpose.
+If You Convey the Software or any Modified Version:
 
-2.2 **Copy and Distribution**: You may distribute copies of the Software, either in its original form or as modified, provided that all copies include the same license terms.
+- You must Convey the **Corresponding Source** under this same License.
+- Include a full copy of this License with every distribution.
+- Retain all copyright notices, including "Copyright © Mulverse Inc.".
+- Clearly document changes (dates, descriptions) in a prominent notice.
 
-2.3 **Modification**: You may modify the Software and distribute the modified versions, provided that the modified Software is also licensed under this GPL and that you include a prominent notice stating the changes made.
+**All derivatives must use this Mulverse M.U.V. General Public License** (strong copyleft). No other license is permitted.
 
-**3. Copyleft**
+### 4. Patent License (From Mulverse Inc. and Contributors to You)
 
-3.1 **Source Code**: If you distribute the Software or any derivative works, you must either include the source code or make it available in a manner specified by this license.
+Mulverse Inc. and contributors grant You a perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license for claims necessarily infringed by the Software or contributions.
 
-3.2 **License Continuity**: All copies and derivative works of the Software must be distributed under the terms of this GPL. You must include a copy of this license with all distributions.
+If You sue Mulverse Inc. or a contributor for patent infringement related to the Software, all patent licenses to You terminate.
 
-**4. Conditions**
+### 5. No Additional Restrictions
 
-4.1 **Attribution**: You must provide appropriate credit to Supernova Inc., including a notice that the Software is licensed under the Supernova S.N.E General Public License.
+You may not add fees, royalties, extra terms, or restrictions that limit the freedoms granted here.
 
-4.2 **No Warranty**: The Software is provided "as is," without any warranty of any kind. Supernova Inc. disclaims all warranties and conditions, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+### 6. Disclaimer of Warranty & Limitation of Liability
 
-4.3 **No Additional Restrictions**: You may not impose any additional restrictions on the rights granted by this license. This includes, but is not limited to, additional licenses or agreements.
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY**, express or implied, including merchantability, fitness, or non-infringement.
 
-**5. Termination**
+**Mulverse Inc. SHALL NOT BE LIABLE** for any damages (direct, indirect, consequential, etc.), even if advised of the possibility. Liability is limited to the maximum extent permitted by law.
 
-5.1 **Automatic Termination**: If you breach any of the terms of this license, your rights under this license will be terminated automatically.
+### 7. Termination
 
-5.2 **Reinstatement**: You may be reinstated if you cure the breach and notify Supernova Inc. of the cure within 30 days of the termination.
+Rights terminate automatically on breach. Rights may reinstate if You cure the breach and notify Mulverse Inc. within 30 days.
 
-**6. Patent Grant**
+Downstream recipients' rights remain unaffected if they comply.
 
-6.1 **Patent License**: You grant to Supernova Inc. a non-exclusive, royalty-free license to any patents you may hold that are necessary to use the Software.
+### 8. Acceptance
 
-**7. Indemnity**
+No acceptance needed for private use. Conveyance or modification requires acceptance of this License.
 
-7.1 **Indemnification**: You agree to indemnify and hold Supernova Inc. harmless from any claims, damages, or liabilities arising from your use or distribution of the Software.
+### 9. Governing Law and Jurisdiction
 
-**8. Governing Law**
+This License is governed by the **laws of the Republic of Yemen**, without regard to conflict of laws rules.
 
-8.1 **Jurisdiction**: This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+Disputes shall be resolved exclusively by the competent courts of **Sana'a, Republic of Yemen**.
 
-**9. Miscellaneous**
+**Optional International Arbitration** (recommended for international disputes):  
+Disputes may be referred to binding arbitration in **Dubai, United Arab Emirates** under the rules of the Dubai International Arbitration Centre (DIAC), if agreed by both parties or initiated by Mulverse Inc. Awards are final and enforceable under applicable international conventions.
 
-9.1 **Severability**: If any provision of this license is held to be invalid or unenforceable, the remaining provisions will remain in effect.
+### 10. Miscellaneous
 
-9.2 **Entire Agreement**: This license constitutes the entire agreement between you and Supernova Inc. regarding the Software and supersedes all prior agreements and understandings.
+Invalid provisions do not affect the rest. This License is the entire agreement regarding the Software.
 
-**10. Contact**
+### How to Apply This License
 
-10.1 **Inquiries**: For any questions or concerns regarding this license, please contact Supernova Inc. at [Contact Information].
+Add this notice to your project:
+
+Copyright (C) [year] Mulverse Inc.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the Mulverse M.U.V. General Public License as published
+by Mulverse Inc., either version 1.0 of the License, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+You should have received a copy of the Mulverse M.U.V. General Public License
+along with this program. If not, contact Mulverse Inc. at [email].
+Website: https://mulverse.com
 
 **End of License**
-
----
